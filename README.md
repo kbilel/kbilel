@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello 🖐️ friends, welcome to my github I am satisfied and I tried most fields of programming such as backend development, Ops and securities  operation  etc., and finally I was able to find my interest, and that was Java & Python Developer  and Aws Devops. It has been almost 8 years. I am coding and now I am a Java Python and Devops Aws 
+
+I code with : 👇
+
+  https://camo.githubusercontent.com/146641825a4dcaf7d047629441f6596b8d9d7327ec8c8104ea54d3b6aa1080b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465
+ 
+
+ 
+
