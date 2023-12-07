@@ -22,13 +22,13 @@ I code with :  👇
 </p>
 <div align="left">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 </div>
 <div align="left">
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="[https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
-<img src="https://img.shields.io/badge/HTML,%20SASS,%20Angular-green?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="/>
 
  
 
